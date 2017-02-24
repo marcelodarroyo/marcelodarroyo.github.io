@@ -12,8 +12,8 @@ URL:http://www.chris-creed.com
 /* -- General Styles -- */
 /* -------------------- */
 #wrap{
-	width:730px;
-	margin:70px auto;
+	width:85%;
+	margin:2.5% auto;
 	font-family:"Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	color:#555;
 	border:1px #eee solid;
@@ -71,12 +71,12 @@ a:hover{
 /* ------------ */
 #header{
 	float:left;
-	width:730px;
+	width:100%;
 	margin:0 0 55px 0;
 }
 #header #header-content{
 	float:left;
-	width:450px;
+	width:60%;
 }
 #header #header-content h1{
 	margin:0 0 2px 0;
@@ -113,8 +113,8 @@ a:hover{
 	box-shadow:0 0 10px #aaa;
 }
 #header #header-photo img{
-	width:200px;
-	height:220px;
+	width:150px;
+	height:150px;
 	border:1px #ddd solid;
 }
 /* ------------- */
