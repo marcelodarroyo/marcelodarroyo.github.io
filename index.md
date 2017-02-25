@@ -8,3 +8,5 @@ Docente e invertigador en ciencias de la computación en el [Departamento de Com
 
 - Lenguajes de programación
 - Compiladores
+
+[css]: # (img 1 #yo .yo)
