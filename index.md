@@ -6,3 +6,13 @@ Docente e invertigador en ciencias de la computación en el [Departamento de Com
 
 - Lenguajes de programación
 - Compiladores
+
+<style>
+  h1 > img {
+    position: absolute;
+    width: 100px;
+    height: auto;
+    top: 10px
+    right: 2rem;
+  }
+</style>
